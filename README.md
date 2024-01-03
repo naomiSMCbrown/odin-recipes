@@ -1,1 +1,1 @@
-# odin-recipes
+Hello, this is a benchmark of my learnings from odin's introduction html course. Ill attempt to portray the following skills: html boiler plates, headings, paragraphs, bolds, italics, ordered/unordered lists, images, alts, hrefs, anchors, and proper commit messages.
